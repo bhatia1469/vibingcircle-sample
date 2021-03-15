@@ -1,1 +1,1 @@
-# vibingcircle-sample
+# vibingcircle
